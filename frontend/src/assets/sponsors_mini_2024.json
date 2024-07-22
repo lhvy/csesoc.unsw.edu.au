@@ -60,6 +60,14 @@
     "website": "https://www.imc.com/ap/"
   },
   {
+    "alt_text": "jds",
+    "description": "https://www.jds.net.au/",
+    "level": "S",
+    "logo": "jds.png",
+    "name": "jds",
+    "website": "https://www.jds.net.au/"
+  },
+  {
     "alt_text": "Neara",
     "description": "https://neara.com/",
     "level": "G",
@@ -203,5 +211,13 @@
     "logo": "canva.png",
     "name": "Canva",
     "website": "https://www.canva.com/"
+  },
+  {
+    "alt_text": "Zurich",
+    "description": "https://www.zurich.com.au/",
+    "level": "G",
+    "logo": "zurich.png",
+    "name": "Zurich",
+    "website": "https://www.zurich.com.au/"
   }
 ]
